@@ -1,0 +1,7 @@
+[user]
+	name = Bibi
+	email = bibi_yumba@hotmail.com
+[alias]
+	co = checkout
+[core]
+	editor = gvim -f
